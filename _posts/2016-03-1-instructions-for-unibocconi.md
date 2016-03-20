@@ -148,6 +148,12 @@ Point 3 instructions are also very handy when studying a text: at every referenc
 
 Some users find it useful to highlight everything interesting with dark green first, then select the light green parts among the dark green ones and finally choose yellow highlights; others find it faster and/or more effective to build directly the yellow / light green / dark green hierarchy, which at first sight might looks more complicated. Every user should find his own way.
 
+Highlights are saved in real time. When you completed underlining a new piece of text, you will see in the top-right section of the ***top bar*** a briefly flashing sentence "Saved successfully", like this:
+
+![]({{site.url}}/post_assets/instructions/saved successfully.png)
+
+This confirms that all recent changes have been saved on our servers. In case you are performing a large job make sure you saw this confirmation before leaving the page.
+
 ### 2.2.2 Forking/copying documents
 Documents that are not KJuiced by yourself are generally "protected": the highlights cannot be changed in order not to mess someone else's job. In certain cases they might not be, so please bear in mind that, before proceeding to modify someone else's work.
 When a set of highlights is protected trying to open the ***highlighters' bar*** will show this option:
