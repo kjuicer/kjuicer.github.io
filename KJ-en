@@ -1,0 +1,309 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>KJuicer</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/kjuicer.css">
+		    <style>
+            .reveal .controls .navigate-down, .reveal .controls .navigate-down.enabled {
+            border-top-color: #ff1313;
+            }
+            </style>
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+        <div class="slides">
+            <section>
+                <div class="margin">
+                    <img src='images/logo.svg' />
+                    <img src='images/motto.svg' />
+                </div>
+            </section>
+
+            <section>
+                <p>
+                <h3>#KnowledgeJuicer</h3>
+                #<b class="strong">Highlights</b> #<b class="medium">Summarizer</b> #<b class="light">Curation</b> #<b class="medium">Studying</b> #<b class="strong">Notes</b>  
+                #<b class="light">TooLong;Didn'tRead </b>#<b class="strong">Learning</b> #<b class="medium">Speed</b> #<b class="light">Reading</b>
+                 #<b class="medium">Extracts</b> #<b class="strong">TL;DR</b> #<b class="medium">Readability</b> #<b class="light">Browsability</b> #<b class="medium">Comfort</b> #<b class="strong">Publishing</b> 
+                <!--#<b class="light">e-Bookstore</b> #<b class="strong">Gamification</b> #<b class="medium">DataAndStatistics</b> #<b class="medium">OneStopShop</b> #<b class="light">ReadingSuggestions</b> #<b class="strong">SEO</b> #<b class="strong">UserExperience</b> -->
+                </p>
+            </section>
+
+            <section>
+                <section data-markdown data-background="#f5f5f5">
+                    The perfect tool to make **TEXT EASIER** to read and study.
+
+                    **SHARE INSTANTLY** the results of your work.
+
+                    Structure **KNOWLEDGE** for later use.
+                    
+                    **TL;DR** Too Long; Didn't Read?  **Goodbye**.
+                    </section>
+                <section data-markdown data-background="#f5f5f5">
+                    ## Handle **TEXT** more effectively
+                    
+                    #### More and more to read, yet **INFORMATION** is still **HIDDEN**
+                    Find, save & summarize with highlights, share, make sure the most important stuff is seen first. Allow other readers to save time, browse, explore only what entices them.
+                    
+                    Learn complex topics **WITH A MAP**.
+                </section>
+                <section data-markdown data-background="#f5f5f5">
+                    Make what we want to **KNOW**  
+                    *study, learn, share, buy...   
+                    ...be it papers, notes, ebooks, PDFs, web pages*  
+                    **EASILY ACCESSIBLE.**
+                    
+                    **STOP** to multiple re-readings!
+                </section>
+            </section>
+
+            <section>
+                <section data-background='images/gradient.svg' class="gradient">
+                    <h2>Study, share and discover.</h2>
+                    <br />
+                    <div class='margin'>
+                        <img src="images/reader_color.svg">
+                        <img src="images/hub.svg">
+                        <img src="images/reader_black.svg">
+                    </div>
+                </section>
+                <section data-markdown data-background='images/gradient.svg' class="gradient">
+                    ## EXTRACT and STRUCTURE notes from *HIGHLIGHTS*.
+                    ![](images/reader_color.svg)
+                    
+                    Learning is way **FASTER**
+                    
+                    Browse the results: so much **EASIER** to review or read
+                    
+                    Reading efforts can be **SHARED**, so you can read **MORE**
+                </section>
+                <section data-markdown data-background='images/gradient.svg' class="gradient">
+                    ![](images/hub.svg)
+
+                    Find and expose **THE NUGGETS** in texts.
+                    
+                    **SHARE**, respecting copyright, look for knowledge or interesting reads. 
+                    
+                    **ORGANIZE**, browse, create or follow tracks.
+                </section>
+            </section>
+
+            <section>
+                <section>
+                    <h3>What does Kjuicer allow?</h3>
+                    <h2>READ LESS</h2>
+                    <p><b>If you <i>kjuice</i> the text (i.e. highlight):</b></p>
+                    <ul>
+                        <li><b>EXTRACT</b> meaningful content on the fly;</li>
+                        <li>Give it a <b>PRIORITY</b>;</li>
+                        <li>Learn it <b>TWICE AS FAST</b>;</li>
+                        <li>Make it accessible in <b>THREE CLICKS</b>... also for others.</li>
+                    </ul>
+                    <p><b>If it has been already <i><b>kjuiced</b></i>:</b></p>
+                    You have three <b>BROWSABLE SUMMARIES</b> connected with the original text.
+                </section>
+                <section>
+                    <p>Show how to find <b>IMPORTANT CONCEPTS</b>.
+                    <p>Trasform, or let others transform, <b>TEXT</b> into a <b>ZOOMABLE</b> and <b>BROWSABLE</b> resource.</p>
+                    <p>Allow reading also to those short of <b>TIME</b>.</p>
+                </section>
+                <section>
+                    <p><b>SIMPLIFY</b> access to content that might be ignored</p>
+                    <p><b>INCREASE</b> the audience<br /></p>
+                    <p>Allow <b><i>RE-PURPOSING</i></b> of documents</p>
+                    <p>Readers can become <b>PROMOTERS</b> of contents<br /></p>
+                </section>
+            </section>
+
+            <section>
+                <section>
+                    <h2>Product</h2>
+                    <p>Need to study, curate, train?</p>
+                    <p>The Kjuicer saves tons of time</p>
+                    <p>The summaries and text browsing earned by highlighting will be there forever, for you or anybody else</p>
+                </section>
+                <section>
+                    <h3 class="medium">A quick look:</h3>
+                    <iframe width="100%" height="500px" src="https://www.youtube.com/embed/ED57JNE1fek?rel=0" frameborder="0" allowfullscreen></iframe>
+                </section>
+                <section>
+                    <div class='grid'>
+                        <h3>Try </h3>
+                        <img src='images/logo.svg' />
+                    </div>
+
+                    <div class="live">
+                        <iframe src="http://alpha.kjuicer.com/cache/484/show/#l:1"></iframe>
+                        <img src='images/desktop.svg' />
+                    </div>
+                    <small>Click on the colored dots to see the different summaries or the original text, or on a sentence to zoom into more details.</small>
+
+                </section>
+            </section>
+
+            <section>
+                <section data-background="#000">
+                    <h2>Who is it for?</h2>
+                    <p><b class="strong">Students</b></p>
+                    <p><b class="medium">Teachers</b></p>
+                    <p><b class="light">Professionals</b>
+                    <p><b class="medium">Corporate</b></p>
+                </section>
+                <section data-background="#000">
+                    <p><b class="strong">STUDENTS</b></p>
+                    <p>
+                    <ul>
+                        <li>Extract their own summaries, just by highlighting;</li> 
+                        <li>Access the results instantly, even from smartphones;</li>
+                        <li>Lose the fear to forget: everything is noted and organized <b>FOREVER</b>.</li>
+                    </ul>
+                    </p><br />
+                    <p><small><b class="medium">THOMAS, 15:</b><br /><em>“Can I put my entire History book on the Kjuicer?”</em>
+                    <br />
+                    <b class="light">HIS GRANDMA, FORMER TEACHER:</b><br /><em>“This tool is revolutionary: he reviewed the entire lesson on the bus in 5 minutes”</em></small></p>
+                </section>
+                <section data-background="#000">
+                    <p><b class="medium">TEACHERS</b></p>
+                    <p>
+                    <ul>
+                        <li>Teach how, and ask students, to extract core concepts from the materials;</li>
+                        <li>Can split work among them;</li>
+                        <li>Create a curated, structured knowledge base, easy to access and re-use;</li>
+                        <li>Can offer <b>MORE</b> alternatives.</li>
+                    </ul>
+                    </p><br />
+                    <p><small>
+                        <b class="medium">STEFANIA, BOCCONI PROFESSOR:</b><br />
+                        <em>“I have been waiting 30 years for a tool like that”.</em><br />
+                        She uses it in her Master and Executive Master classes since Feb 16.
+                    </small></p>
+                </section>
+                <section data-background='images/gradient.svg' class="gradient">
+                <h3>Use in class <b>SHOWED</b> that:</h3>
+                <ul>
+                    <li>It's pretty fast to learn & use;</li>
+                    <li>Work can be shared;</li>
+                    <li>Content can be increased up to x4 and/or load reduced;</li>
+                    <li>It creates a large and shareable knowledge base.</li>
+                </ul>
+                </p>
+                </section>
+                <section data-background="#f5f5f5">
+                    <h3>PROFESSIONALS</h3>
+                    <ul>
+                        <li>Read it once and for all, for everybody;</li>
+                        <li>Simplify and circulate it <i><b>kjuiced</b></i>, up to 20x quicker to read!</li>
+                        <li>Make yourself noticed <i><b>curating</b></i> content too, rather than just producing it.</li>
+                    </ul>
+                </section>
+                <section data-background="#f5f5f5">
+                    <h3>CORPORATE</h3>
+                    <p>
+                    <ul>
+                        <li>Make texts quicker and more efficent; </li>
+                        <li>Save management's time, summarizing and structuring content; </li>
+                        <li>Spread knowledge faster and wider; </li>
+                        <li>Communicate and train more, and easier. </li>
+                    </ul>
+                    </p>
+                    From boardrooms to newsrooms, from marketing to manuals.
+                </section>
+            </section>
+
+            <section>
+                <section data-markdown data-background='images/gradient.svg' class="gradient">
+                    ## What you find on Kjuicer.com
+                    ![](images/binocular.svg)
+                    ### Extensions & bookmarklet
+                    ### The walls
+                    ### Upload your content
+                </section>
+                <section data-background='images/gradient.svg' class="gradient">
+                <p>
+                    <ul>
+                        <li>The extension for Firefox & Chrome,</li>
+                        <li>A bookmarklet for other browsers.</li>
+                        <li>Works with 95% of web pages, and</li>
+                        <li>The user can upload content (*).</li>
+                    </ul>
+                </p>
+                <small>(*) For now: in html format; doc expected soon; pdf next.</small>
+                </section>
+                <section data-background='images/gradient.svg' class="gradient">
+                    <h2>The walls</h2>
+                        <ul>
+                            <li>A public one, to browse others' <i>kjuiced</i> works, and</li>
+                            <li>The staff's favorites.</li>
+                        </ul>
+                    <p>
+                    <h3>Creating a user gets you:</h3>
+                        <ul>
+                            <li>A personal Wall, to keep track of your documents,</li>
+                            <li>The favorites' collection, private or shareable.</li>
+                        </ul>
+                    </p>
+                </section>
+                <section data-background='images/gradient.svg' class="gradient">
+                    <h2>Kjuicer works:</h2>
+                    <ul>
+                        <li>Saas through provider, CDN and AWS-Lambda;</li>
+                        <li>in Virtual Machine;</li>
+                        <li>in White Labeling and within CMSs.</li>
+                    </ul>                
+                    <p>A TinyMCE plugin (Wordpress) is under development.</p>
+                </section>
+              </section>
+
+            <section data-background="#f5f5f5">
+                <h2>Coming up next</h2>
+                <p>
+                <ul>
+                    <li>Mind maps & slides extraction;</li>
+                    <li>Make books readable with Kjuicer...</li>
+                    <li>...or available <b><i>kjuiced</b></i>, summarized and browsable.</li>
+                    <li>Allow readers to become <b><i>curators</i></b> & <b><i>promoters</i></b>;</li>
+                    <li>Reward them!</li>
+                </ul>
+                </p>
+            </section>
+
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
